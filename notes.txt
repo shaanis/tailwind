@@ -1,0 +1,32 @@
+------------------------------------------------------
+                Bootstrap - CSS Framework
+-------------------------------------------------------
+1. used to build fast and responsive pages
+2. predefined classes of styles, commonly used bootsrap classes  
+   -Container/container-fluid
+   -border
+   -color:
+       success-green,
+       danger-red
+       warning-orange,
+       primary-blue,
+       info-sky blue,
+       dark-black,
+       light-white,
+       secondary-grey,
+  -margin: m/mt/mb/me/ms - 1/2/3/4/5
+  -text-center
+  -padding- p/pt/pb/ps/pe - 1/2/3/4/5
+  -text-color
+  -img-fluid
+  -width : w-25/50/75/100
+
+
+
+
+
+
+
+  -----------------------------------------------------------------------------------
+                  Tailwindcss -  css Framework
+ -------------------------------------------------------------------------------------
